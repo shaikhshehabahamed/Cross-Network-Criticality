@@ -1,0 +1,358 @@
+country,industry,n_firms,criticality_sum,vulnerability_sum
+JPN,Automotive,135,238,45
+CHN,Steel,122,202,74
+JPN,Chemicals,171,182,57
+USA,Electric Utilities,59,178,41
+CHN,Chemicals,225,159,163
+CHN,Metals & Mining,162,150,107
+KOR,Steel,54,140,32
+JPN,Steel,62,131,11
+CHN,Automotive,168,119,91
+JPN,Electric Utilities,19,114,6
+CHN,Oil & Gas Producers,12,98,7
+KOR,Automotive,89,87,55
+KOR,Chemicals,100,81,39
+MEX,Steel,10,76,5
+CHN,Electric Utilities,108,75,51
+CAN,Metals & Mining,54,74,65
+USA,Engineering & Construction,11,73,5
+RUS,Oil & Gas Producers,16,64,10
+LUX,Steel,4,60,1
+KOR,Electric Utilities,27,54,16
+USA,Automotive,55,54,33
+IDN,Engineering & Construction,25,54,17
+IND,Engineering & Construction,17,53,23
+KOR,Engineering & Construction,65,53,26
+DEU,Automotive,36,49,19
+USA,Chemicals,59,46,32
+USA,Aerospace & Defense,46,44,27
+CHN,Engineering & Construction,72,40,55
+KOR,Oil & Gas Producers,20,39,11
+JPN,Metals & Mining,30,37,11
+JPN,Engineering & Construction,97,34,42
+VNM,Oil & Gas Producers,25,33,13
+DEU,Steel,13,32,10
+CHE,Metals & Mining,4,31,2
+IND,Oil & Gas Producers,18,31,8
+TWN,Oil & Gas Producers,8,30,5
+CAN,Electric Utilities,13,28,7
+TWN,Steel,29,27,7
+CHN,Technology Hardware,76,26,43
+TWN,Chemicals,46,26,13
+TWN,Automotive,28,26,14
+KOR,Construction Materials,24,26,18
+DEU,Engineering & Construction,5,25,2
+CHN,Renewable Energy,61,24,35
+USA,Oil & Gas Producers,60,24,38
+SWE,Industrial Intermediate Prod,3,23,2
+IDN,Metals & Mining,45,22,21
+CHL,Electric Utilities,17,22,8
+JPN,Oil & Gas Producers,22,21,12
+RUS,Metals & Mining,22,20,19
+ESP,Automotive,6,19,4
+GBR,Aerospace & Defense,11,19,5
+MEX,Chemicals,12,18,7
+RUS,Steel,17,18,10
+FRA,Electric Utilities,3,17,1
+IDN,Steel,13,17,6
+JPN,Technology Hardware,69,17,40
+GBR,Chemicals,9,16,5
+AUS,Metals & Mining,43,15,42
+DNK,Renewable Energy,3,15,1
+GBR,Engineering & Construction,14,15,23
+SWE,Steel,3,15,2
+GBR,Metals & Mining,14,13,13
+THA,Oil & Gas Producers,10,13,3
+BRA,Metals & Mining,5,13,4
+USA,Steel,52,13,35
+CHN,Machinery,78,13,61
+USA,Metals & Mining,38,13,28
+IDN,Electric Utilities,6,12,2
+VNM,Engineering & Construction,13,11,9
+IDN,Oil & Gas Producers,9,11,3
+RUS,Electric Utilities,19,11,9
+USA,Renewable Energy,25,11,20
+SAU,Oil & Gas Producers,5,10,2
+TWN,Engineering & Construction,20,10,10
+CHL,Chemicals,4,10,1
+VNM,Electric Utilities,21,9,14
+FIN,Machinery,9,9,7
+CHL,Engineering & Construction,3,8,2
+CAN,Automotive,8,8,5
+JPN,Machinery,119,8,71
+COL,Oil & Gas Producers,3,8,2
+DEU,Chemicals,18,8,6
+ESP,Oil & Gas Producers,8,8,4
+IND,Metals & Mining,10,8,4
+NOR,Oil & Gas Services & Equip,3,7,2
+JPN,Construction Materials,34,7,16
+NLD,Automotive,4,7,1
+ESP,Chemicals,7,7,5
+ARG,Oil & Gas Producers,5,7,2
+MYS,Electric Utilities,4,6,3
+IDN,Chemicals,18,6,9
+DEU,Renewable Energy,8,6,5
+CHL,Metals & Mining,6,5,1
+CYM,Automotive,16,5,4
+AUS,Chemicals,3,5,0
+BRA,Steel,6,4,0
+MEX,Oil & Gas Producers,4,4,2
+SAU,Chemicals,7,4,2
+PER,Electric Utilities,8,4,5
+BRA,Chemicals,3,4,2
+FRA,Automotive,9,4,2
+KOR,Technology Hardware,44,4,26
+KOR,Renewable Energy,29,4,23
+AUS,Transportation & Logistics,12,3,11
+VNM,Steel,11,3,7
+JPN,Industrial Intermediate Prod,67,3,39
+IND,Steel,10,3,5
+USA,Diversified Industrials,8,3,2
+KOR,Transportation Equipment,8,2,3
+BRA,Oil & Gas Producers,5,2,1
+MEX,Electric Utilities,3,2,1
+IND,Chemicals,34,2,25
+USA,Oil & Gas Services & Equip,17,2,14
+USA,Machinery,56,2,42
+CHN,Electrical Equipment,54,2,40
+HKG,Metals & Mining,5,2,4
+ITA,Electric Utilities,5,2,3
+JPN,Diversified Industrials,6,2,2
+BRA,Electric Utilities,6,2,5
+CHL,Oil & Gas Producers,5,2,4
+MYS,Chemicals,5,1,3
+BMU,Automotive,3,1,1
+ZAF,Metals & Mining,10,1,5
+CAN,Oil & Gas Producers,13,1,6
+QAT,Oil & Gas Producers,3,1,2
+SWE,Machinery,5,1,3
+TUR,Automotive,5,1,3
+USA,Transportation Equipment,19,1,10
+TWN,Metals & Mining,5,1,1
+MYS,Oil & Gas Producers,7,1,3
+CHN,Transportation & Logistics,53,1,41
+JPN,Technology Services,10,1,8
+JPN,Electrical Equipment,61,1,41
+GBR,Oil & Gas Services & Equip,5,1,0
+CHN,Construction Materials,20,1,17
+FRA,Oil & Gas Producers,3,1,1
+GBR,Oil & Gas Producers,9,1,4
+CHN,Gas & Water Utilities,32,1,27
+KOR,Machinery,31,1,23
+IND,Machinery,7,1,7
+CHN,Semiconductors,18,1,17
+IND,Automotive,28,1,17
+IND,Industrial Intermediate Prod,9,1,9
+DEU,Transportation & Logistics,9,1,6
+CAN,Chemicals,7,1,4
+VNM,Chemicals,10,0,6
+VNM,Construction Materials,4,0,4
+VNM,Electrical Equipment,8,0,7
+VNM,Gas & Water Utilities,4,0,2
+VNM,Industrial Intermediate Prod,10,0,9
+VNM,Machinery,4,0,4
+VNM,Metals & Mining,4,0,4
+VNM,Oil & Gas Services & Equip,3,0,2
+BMU,Technology Hardware,3,0,3
+BRA,Automotive,5,0,3
+BRA,Engineering & Construction,3,0,3
+USA,Gas & Water Utilities,7,0,5
+USA,Industrial Intermediate Prod,31,0,29
+BRA,Transportation & Logistics,5,0,3
+CAN,Engineering & Construction,4,0,3
+CAN,Industrial Intermediate Prod,4,0,4
+CAN,Machinery,3,0,1
+USA,Construction Materials,8,0,5
+USA,Electrical Equipment,29,0,24
+ARE,Transportation & Logistics,3,0,4
+AUS,Electric Utilities,7,0,3
+AUS,Engineering & Construction,6,0,6
+AUS,Gas & Water Utilities,3,0,3
+AUS,Oil & Gas Producers,5,0,4
+AUS,Steel,4,0,2
+ARE,Oil & Gas Producers,3,0,2
+DEU,Machinery,16,0,12
+DEU,Metals & Mining,3,0,3
+DEU,Oil & Gas Producers,5,0,4
+DEU,Semiconductors,4,0,4
+IDN,Electrical Equipment,8,0,5
+IDN,Industrial Intermediate Prod,6,0,2
+IDN,Oil & Gas Services & Equip,3,0,1
+IDN,Telecommunications,5,0,2
+IDN,Transportation & Logistics,24,0,17
+IND,Construction Materials,8,0,8
+IND,Electric Utilities,28,0,35
+IND,Electrical Equipment,4,0,5
+IND,Renewable Energy,4,0,6
+IND,Technology Hardware,3,0,4
+IND,Technology Services,3,0,2
+IND,Transportation & Logistics,13,0,19
+IRL,Chemicals,3,0,0
+IRL,Electrical Equipment,3,0,0
+ITA,Automotive,3,0,2
+ITA,Engineering & Construction,3,0,3
+ITA,Machinery,4,0,4
+ITA,Oil & Gas Services & Equip,3,0,1
+CHN,Oil & Gas Services & Equip,6,0,4
+GBR,Steel,5,0,4
+GBR,Telecommunications,3,0,5
+GBR,Transportation & Logistics,15,0,15
+HKG,Machinery,4,0,3
+HKG,Steel,5,0,4
+HKG,Technology Hardware,3,0,1
+IDN,Automotive,7,0,4
+IDN,Construction Materials,9,0,2
+CYM,Semiconductors,3,0,2
+CYM,Technology Hardware,9,0,4
+DEU,Aerospace & Defense,6,0,4
+DEU,Electric Utilities,8,0,4
+DEU,Electrical Equipment,7,0,6
+DEU,Industrial Intermediate Prod,3,0,3
+CHN,Technology Services,4,0,3
+CHN,Telecommunications,3,0,1
+CHN,Transportation Equipment,23,0,11
+CYM,Chemicals,4,0,4
+CYM,Electric Utilities,3,0,3
+CYM,Electrical Equipment,3,0,2
+CYM,Gas & Water Utilities,4,0,6
+CYM,Renewable Energy,5,0,3
+ITA,Transportation & Logistics,6,0,6
+JPN,Gas & Water Utilities,15,0,9
+JPN,Medical Equipment & Devices,8,0,4
+JPN,Semiconductors,34,0,20
+JPN,Telecommunications,6,0,4
+JPN,Transportation & Logistics,76,0,49
+JPN,Transportation Equipment,16,0,8
+KOR,Electrical Equipment,26,0,17
+KOR,Gas & Water Utilities,7,0,2
+KOR,Industrial Intermediate Prod,27,0,17
+KOR,Medical Equipment & Devices,3,0,3
+KOR,Metals & Mining,15,0,7
+CHL,Renewable Energy,3,0,2
+CHL,Steel,3,0,1
+CHL,Transportation & Logistics,6,0,2
+CHN,Aerospace & Defense,15,0,8
+ESP,Transportation & Logistics,6,0,5
+FRA,Aerospace & Defense,8,0,6
+FRA,Chemicals,3,0,3
+FRA,Machinery,3,0,2
+FRA,Renewable Energy,4,0,3
+FRA,Transportation & Logistics,6,0,4
+GBR,Automotive,8,0,2
+GBR,Electric Utilities,11,0,9
+GBR,Electrical Equipment,3,0,3
+GBR,Gas & Water Utilities,3,0,3
+GBR,Industrial Intermediate Prod,5,0,6
+GBR,Machinery,8,0,3
+CHN,Industrial Intermediate Prod,38,0,33
+KOR,Semiconductors,28,0,24
+KOR,Technology Services,10,0,5
+KOR,Telecommunications,3,0,1
+KOR,Transportation & Logistics,32,0,13
+LUX,Metals & Mining,3,0,3
+MEX,Automotive,7,0,4
+MEX,Construction Materials,5,0,3
+MEX,Engineering & Construction,3,0,3
+MEX,Transportation & Logistics,6,0,4
+MYS,Automotive,7,0,5
+MYS,Industrial Intermediate Prod,4,0,3
+MYS,Steel,4,0,3
+MYS,Transportation & Logistics,3,0,2
+NLD,Chemicals,10,0,5
+NLD,Engineering & Construction,6,0,6
+NLD,Machinery,4,0,3
+NLD,Metals & Mining,4,0,4
+NLD,Semiconductors,3,0,2
+NLD,Transportation & Logistics,5,0,4
+NOR,Chemicals,5,0,4
+NOR,Engineering & Construction,3,0,4
+NOR,Oil & Gas Producers,4,0,1
+NOR,Transportation & Logistics,3,0,3
+NZL,Transportation & Logistics,4,0,4
+PAK,Electric Utilities,3,0,3
+PAK,Oil & Gas Producers,4,0,4
+PER,Metals & Mining,4,0,5
+PHL,Electric Utilities,9,0,7
+PHL,Engineering & Construction,3,0,1
+PHL,Metals & Mining,4,0,3
+PHL,Oil & Gas Producers,3,0,1
+PHL,Transportation & Logistics,3,0,1
+POL,Electric Utilities,4,0,6
+POL,Steel,5,0,5
+QAT,Electric Utilities,3,0,1
+RUS,Automotive,5,0,3
+RUS,Chemicals,9,0,6
+RUS,Engineering & Construction,6,0,4
+RUS,Gas & Water Utilities,16,0,15
+RUS,Oil & Gas Services & Equip,3,0,2
+RUS,Renewable Energy,5,0,5
+RUS,Transportation & Logistics,4,0,4
+RUS,Transportation Equipment,6,0,5
+CAN,Renewable Energy,3,0,1
+CAN,Steel,7,0,5
+CAN,Telecommunications,3,0,2
+CAN,Transportation & Logistics,5,0,5
+CAN,Transportation Equipment,4,0,2
+CHE,Chemicals,4,0,2
+CHE,Machinery,3,0,2
+CHL,Construction Materials,3,0,2
+CHL,Gas & Water Utilities,3,0,2
+SAU,Electric Utilities,3,0,2
+SAU,Transportation & Logistics,3,0,3
+SGP,Chemicals,3,0,2
+SGP,Electric Utilities,3,0,1
+SGP,Engineering & Construction,4,0,2
+SGP,Gas & Water Utilities,3,0,3
+SGP,Machinery,3,0,3
+SGP,Oil & Gas Producers,10,0,7
+SGP,Transportation & Logistics,8,0,6
+SWE,Automotive,3,0,1
+SWE,Electric Utilities,3,0,1
+SWE,Metals & Mining,3,0,2
+SWE,Renewable Energy,4,0,3
+THA,Chemicals,6,0,5
+THA,Electric Utilities,8,0,7
+THA,Steel,6,0,4
+THA,Transportation & Logistics,4,0,4
+TUR,Oil & Gas Producers,3,0,4
+TUR,Steel,3,0,3
+TWN,Aerospace & Defense,4,0,3
+TWN,Construction Materials,10,0,7
+TWN,Electric Utilities,3,0,2
+TWN,Electrical Equipment,24,0,18
+TWN,Gas & Water Utilities,5,0,5
+TWN,Industrial Intermediate Prod,33,0,18
+USA,Medical Equipment & Devices,25,0,17
+USA,Semiconductors,20,0,16
+USA,Technology Hardware,40,0,29
+DEU,Transportation Equipment,5,0,2
+DNK,Chemicals,3,0,2
+DNK,Electrical Equipment,3,0,2
+DNK,Transportation & Logistics,7,0,5
+DZA,Oil & Gas Producers,4,0,2
+ESP,Electric Utilities,11,0,7
+ESP,Engineering & Construction,11,0,10
+ESP,Gas & Water Utilities,4,0,3
+ESP,Industrial Intermediate Prod,8,0,8
+ESP,Machinery,6,0,5
+ESP,Renewable Energy,6,0,5
+ESP,Steel,29,0,26
+TWN,Machinery,20,0,15
+TWN,Renewable Energy,7,0,5
+TWN,Semiconductors,41,0,28
+TWN,Technology Hardware,59,0,42
+TWN,Telecommunications,4,0,3
+TWN,Transportation & Logistics,18,0,12
+USA,Cable & Satellite,3,0,1
+VNM,Transportation & Logistics,9,0,7
+ZAF,Automotive,3,0,1
+ZAF,Chemicals,3,0,1
+ARG,Electric Utilities,4,0,2
+BRA,Machinery,4,0,3
+ARE,Electric Utilities,5,0,3
+BMU,Gas & Water Utilities,5,0,5
+USA,Technology Services,5,0,4
+USA,Telecommunications,5,0,3
+USA,Transportation & Logistics,62,0,50
+ARE,Chemicals,3,0,3
+VNM,Automotive,5,0,5
